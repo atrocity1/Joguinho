@@ -1,0 +1,1 @@
+room_restart() //Reinicia a fase ao colidir com o objeto
